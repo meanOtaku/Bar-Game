@@ -1,0 +1,32 @@
+# CMake generation dependency list for this directory.
+F:/college/do_not_touch/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake
+F:/college/work/workspace/New folder/VSCODE/CMakeLists.txt
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/3.19.0-rc3/CMakeCCompiler.cmake
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/3.19.0-rc3/CMakeCXXCompiler.cmake
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/3.19.0-rc3/CMakeRCCompiler.cmake
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/3.19.0-rc3/CMakeSystem.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeDependentOption.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeRCInformation.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CPack.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CPackComponent.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CTest.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CTestTargets.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/CTestUseLaunchers.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Compiler/MSVC-C.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Compiler/MSVC-CXX.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/DartConfiguration.tcl.in
+F:/install software/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-C.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC-CXX.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Platform/Windows.cmake
+F:/install software/CMake/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake
+F:/install software/CMake/share/cmake-3.19/Templates/CPackConfig.cmake.in

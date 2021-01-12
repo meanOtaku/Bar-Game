@@ -1,0 +1,10 @@
+^F:\COLLEGE\WORK\WORKSPACE\NEW FOLDER\VSCODE\BUILD\CMAKEFILES\FDDF64F8AA51A082AFCD16A0F527A2F8\GENERATE.STAMP.RULE
+setlocal
+"F:\install software\CMake\bin\cmake.exe" "-SF:/college/work/workspace/New folder/VSCODE" "-BF:/college/work/workspace/New folder/VSCODE/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "F:/college/work/workspace/New folder/VSCODE/build/game.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

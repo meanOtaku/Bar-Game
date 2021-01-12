@@ -1,0 +1,9 @@
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/game.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/NightlyMemoryCheck.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/Experimental.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/Continuous.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/Nightly.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/PACKAGE.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/RUN_TESTS.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/ALL_BUILD.dir
+F:/college/work/workspace/New folder/VSCODE/build/CMakeFiles/ZERO_CHECK.dir
