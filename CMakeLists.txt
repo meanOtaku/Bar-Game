@@ -2,10 +2,10 @@ cmake_minimum_required(VERSION 3.0.0)
 project(game VERSION 0.1.0)
 
 INCLUDE_DIRECTORIES(
-    "F:/college/do_not_touch/vcpkg/vcpkg/installed/x64-windows/include"
+    "<path to vcpkg>/vcpkg/installed/x64-windows/include"
 )
 LINK_DIRECTORIES(
-    "F:/college/do_not_touch/vcpkg/vcpkg/installed/x64-windows/lib"
+    "<path to vcpkg>/vcpkg/installed/x64-windows/lib"
 )
 
 include(CTest)
